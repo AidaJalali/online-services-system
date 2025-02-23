@@ -62,6 +62,7 @@ Proper indexing has been applied to optimize query performance. The results of i
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/AidaJalali/online-services-system.git
+   cd online-services-system
    ```
 
 2. **Set Up the Database**:
