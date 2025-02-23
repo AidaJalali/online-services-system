@@ -1,4 +1,4 @@
-# Online Services Marketplace 
+# Online Services
 
 This project is a database system designed to simulate an **online services marketplace** (similar to platforms like Acharah or Sanjagh). The system allows experts to offer services in specific categories, and customers can request services based on their needs. The database handles service categorization, expert certifications, service requests, pricing, and customer feedback.
 
